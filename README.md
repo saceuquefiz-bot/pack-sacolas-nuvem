@@ -122,3 +122,10 @@ Essas duas informações eu não tinha como preencher por você:
 2. **Link do botão de compra** — o botão principal de preço aponta para `#oferta` (uma âncora dentro da própria página). Assim que você tiver o link real do seu checkout/pagamento, substitua esse `href="#oferta"` pelo link de verdade.
 
 Qualquer dúvida durante o processo, é só chamar.
+
+
+
+
+
+
+Atualização da versão final — UTM + Pixel.
